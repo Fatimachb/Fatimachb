@@ -10,7 +10,7 @@ Data science student exploring data realms through coding and ML. My GitHub jour
 * ✉️  You can contact me at [chehaieb.fatima@gmail.com](mailto:chehaieb.fatima@gmail.com)
 * 🧠  I'm learning Python,ML,Data analysis
 * 🤝  I'm open to collaborating on Projects
-* ⚡  Mastering the art of data by day and donning the cape of a coding supergirl by night, but shh, that's a secret! 🕵️‍♀️💻✨
+* ⚡  Mastering the art of data by day and donning the cape of a coding supergirl by night, but chh, that's a secret! 🕵️‍♀️💻✨
 
 <a href="https://www.github.com/Fatimachb" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Fatimachb?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>

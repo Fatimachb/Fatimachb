@@ -4,11 +4,11 @@ Hi 👋 My name is Fatima
 Knowledge engineering and data science student
 ----------------------------------------------
 
-Data science student exploring data realms through coding and ML. My GitHub journey showcases hands-on projects, a testament to my evolving skills in statistics, programming, and data visualization.. Eager to learn and contribute!
+Data science student exploring data realms through coding and ML. My GitHub journey showcases hands-on projects, a testament to my evolving skills in AI, programming, and data analysis. Eager to learn and contribute!
 
 * 🌍  I'm based in Rabat city
 * ✉️  You can contact me at [chehaieb.fatima@gmail.com](mailto:chehaieb.fatima@gmail.com)
-* 🧠  I'm learning Python,ML,Data analysis
+* 🧠  I'm learning Python,AI,ML,Data analysis
 * 🤝  I'm open to collaborating on Projects
 
 
